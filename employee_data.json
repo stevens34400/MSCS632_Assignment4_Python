@@ -1,0 +1,77 @@
+{
+  "employees": [
+    {
+      "name": "Steven 1",
+      "preferences": {
+        "Monday": [
+          "Morning"
+        ],
+        "Tuesday": [
+          "Afternoon"
+        ],
+        "Wednesday": [
+          "Evening"
+        ],
+        "Thursday": [
+          "Evening"
+        ],
+        "Friday": [
+          "Evening"
+        ],
+        "Saturday": [
+          "Evening"
+        ],
+        "Sunday": [
+          "Evening"
+        ]
+      }
+    }
+  ],
+  "schedule": {
+    "Monday": {
+      "Morning": [
+        "Steven 1"
+      ],
+      "Afternoon": [],
+      "Evening": []
+    },
+    "Tuesday": {
+      "Morning": [],
+      "Afternoon": [
+        "Steven 1"
+      ],
+      "Evening": []
+    },
+    "Wednesday": {
+      "Morning": [],
+      "Afternoon": [],
+      "Evening": [
+        "Steven 1"
+      ]
+    },
+    "Thursday": {
+      "Morning": [],
+      "Afternoon": [],
+      "Evening": [
+        "Steven 1"
+      ]
+    },
+    "Friday": {
+      "Morning": [],
+      "Afternoon": [],
+      "Evening": [
+        "Steven 1"
+      ]
+    },
+    "Saturday": {
+      "Morning": [],
+      "Afternoon": [],
+      "Evening": []
+    },
+    "Sunday": {
+      "Morning": [],
+      "Afternoon": [],
+      "Evening": []
+    }
+  }
+}
