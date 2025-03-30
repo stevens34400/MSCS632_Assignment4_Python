@@ -1,4 +1,452 @@
 {
-  "employees": [],
-  "schedule": null
+  "employees": [
+    {
+      "name": "Employee1",
+      "preferences": {
+        "Monday": [
+          "Morning"
+        ],
+        "Tuesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Wednesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Thursday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Friday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Saturday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Sunday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ]
+      }
+    },
+    {
+      "name": "Employee 2",
+      "preferences": {
+        "Monday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Tuesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Wednesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Thursday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Friday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Saturday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Sunday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ]
+      }
+    },
+    {
+      "name": "Employee 4",
+      "preferences": {
+        "Monday": [
+          "Morning"
+        ],
+        "Tuesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Wednesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Thursday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Friday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Saturday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Sunday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ]
+      }
+    },
+    {
+      "name": "Employee1",
+      "preferences": {
+        "Monday": [
+          "Morning"
+        ],
+        "Tuesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Wednesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Thursday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Friday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Saturday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Sunday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ]
+      }
+    },
+    {
+      "name": "Employee 5",
+      "preferences": {
+        "Monday": [
+          "Morning"
+        ],
+        "Tuesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Wednesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Thursday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Friday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Saturday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Sunday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ]
+      }
+    },
+    {
+      "name": "Employee 6",
+      "preferences": {
+        "Monday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Tuesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Wednesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Thursday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Friday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Saturday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Sunday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ]
+      }
+    },
+    {
+      "name": "Employee 7",
+      "preferences": {
+        "Monday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Tuesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Wednesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Thursday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Friday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Saturday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Sunday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ]
+      }
+    },
+    {
+      "name": "Employee 8",
+      "preferences": {
+        "Monday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Tuesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Wednesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Thursday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Friday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Saturday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Sunday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ]
+      }
+    },
+    {
+      "name": "Employee 9",
+      "preferences": {
+        "Monday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Tuesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Wednesday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Thursday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Friday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Saturday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "Sunday": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ]
+      }
+    }
+  ],
+  "schedule": {
+    "Monday": {
+      "Morning": [
+        "Employee1",
+        "Employee 2"
+      ],
+      "Afternoon": [
+        "Employee 4",
+        "Employee1"
+      ],
+      "Evening": [
+        "Employee 5",
+        "Employee 6"
+      ]
+    },
+    "Tuesday": {
+      "Morning": [
+        "Employee 7",
+        "Employee 8"
+      ],
+      "Afternoon": [
+        "Employee 9",
+        "Employee1"
+      ],
+      "Evening": [
+        "Employee 2",
+        "Employee 4"
+      ]
+    },
+    "Wednesday": {
+      "Morning": [
+        "Employee1",
+        "Employee 5"
+      ],
+      "Afternoon": [
+        "Employee 6",
+        "Employee 2"
+      ],
+      "Evening": [
+        "Employee 4",
+        "Employee 7"
+      ]
+    },
+    "Thursday": {
+      "Morning": [
+        "Employee 8",
+        "Employee 9"
+      ],
+      "Afternoon": [
+        "Employee1",
+        "Employee 2"
+      ],
+      "Evening": [
+        "Employee 4",
+        "Employee 5"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "Employee 6",
+        "Employee 7"
+      ],
+      "Afternoon": [
+        "Employee 2",
+        "Employee 4"
+      ],
+      "Evening": [
+        "Employee 5",
+        "Employee 8"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "Employee 9",
+        "Employee 5"
+      ],
+      "Afternoon": [
+        "Employee 6",
+        "Employee 7"
+      ],
+      "Evening": [
+        "Employee 8"
+      ]
+    },
+    "Sunday": {
+      "Morning": [
+        "Employee 6",
+        "Employee 7"
+      ],
+      "Afternoon": [
+        "Employee 8",
+        "Employee 9"
+      ],
+      "Evening": []
+    }
+  }
 }

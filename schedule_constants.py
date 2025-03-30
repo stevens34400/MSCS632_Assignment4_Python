@@ -1,4 +1,4 @@
-# Constants for the scheduling system
+    # Constants for the scheduling system
 DAYS_OF_WEEK = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 SHIFTS = ["Morning", "Afternoon", "Evening"]
 MAX_SHIFTS_PER_DAY = 1

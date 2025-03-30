@@ -2,6 +2,7 @@ from typing import Dict, List, Set
 import random
 from schedule_constants import *
 
+# Find the next available shift for an employee
 def find_next_available_shift(
     schedule: Dict,
     day: str,
@@ -26,6 +27,7 @@ def find_next_available_shift(
 
     return None
 
+# Generate a schedule for the employees based on their preferences
 def generate_schedule(employees: List[Dict]) -> Dict:
     # Initialize schedule
     schedule = {day: {shift: [] for shift in SHIFTS} for day in DAYS_OF_WEEK}

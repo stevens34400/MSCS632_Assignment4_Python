@@ -9,6 +9,7 @@ A Python-based Employee Scheduling System that helps manage and generate work sc
 - View current schedule
 - Persistent data storage
 - Clear all data when needed
+- Indicate shift preference with priority ranking
 
 ## System Constraints
 

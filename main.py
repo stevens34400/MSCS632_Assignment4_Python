@@ -11,6 +11,7 @@ def print_schedule(schedule: Dict):
 
     print("\nCurrent Schedule:")
     print("-" * 80)
+    # Print the schedule in a readable format
     for day in DAYS_OF_WEEK:
         print(f"\n{day}:")
         for shift in SHIFTS:
@@ -18,6 +19,7 @@ def print_schedule(schedule: Dict):
             print(f"  {shift}: {', '.join(employees) if employees else 'No assignments'}")
     print("-" * 80)
 
+# Input preferences for an employee
 def input_preferences() -> Dict[str, List[str]]:
     preferences = {}
     for day in DAYS_OF_WEEK:
@@ -32,6 +34,7 @@ def input_preferences() -> Dict[str, List[str]]:
             print("Invalid preferences. Please try again.")
     return preferences
 
+# Add a new employee to the system
 def add_employee(employees: List[Dict]) -> List[Dict]:
     print("\nAdding new employee")
     name = input("Enter employee name: ").strip()
@@ -47,6 +50,7 @@ def add_employee(employees: List[Dict]) -> List[Dict]:
 def main():
     employees, schedule = load_data()
 
+    # Main loop for the employee scheduler
     while True:
         print("\nEmployee Scheduler")
         print("1. Add Employee")
